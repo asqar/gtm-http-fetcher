@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name        = 'GTMHTTPFetcher'
+  s.name        = 'gtm-http-fetcher'
   s.version     = '2.0.0'
   s.authors     = 'Google Inc.'
   s.license     = { :type => 'Apache', :file => 'LICENSE' }
